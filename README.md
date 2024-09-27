@@ -23,3 +23,14 @@
 * :tada:
 * :pizza:
 * :ramen:
+
+## Keyboard Shortcuts
+Shortcuts I frequently use:
+- Control-c (copy)
+- Control-v (paste)
+- Control-z (undo)
+- Windows Key-shift-s (snipping tool)
+- Control k+d (Formats page in VS Community to preferences)
+
+Shortcuts I would like to use:
+- Win-D (show desktop)
