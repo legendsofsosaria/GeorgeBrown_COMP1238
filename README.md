@@ -17,6 +17,7 @@
 * [Webminal](https://www.webminal.org/)
 * [GitHub Pages](https://pages.github.com/)
 * [W3 Schools](https://www.w3schools.com/)
+* [CLI commands](docs/cli.md)
 
 # Experiments
 * :smiley:
